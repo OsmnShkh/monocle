@@ -1,0 +1,54 @@
+Searching 488 files for "logo"
+
+/Users/osman/work/monocle/app/assets/javascripts/app/views/sidebar.jst.eco:
+    1  <header>
+    2:   <a class="logo landing">eevents</a>
+    3
+    4    <nav>
+
+/Users/osman/work/monocle/app/assets/javascripts/app/views/sidebar/user_menu.jst.eco:
+   14  <li class="divider"></li>
+   15
+   16: <li><a href="/logout">Logout</a></li>
+
+/Users/osman/work/monocle/app/assets/stylesheets/app/sidebar.css.styl:
+   49    }
+   50
+   51:   .logo {
+   52      display: block
+   53      float: left
+
+/Users/osman/work/monocle/app/assets/stylesheets/app/users_authorize.css.styl:
+   74
+   75    a.twitter:before {
+   76:     content: url(/assets/twitter-logo.png)
+   77    }
+   78
+   79    a.github:before {
+   80:     content: url(/assets/github-logo.png)
+   81    }
+   82
+
+/Users/osman/work/monocle/app/mobile/stylesheets/app/posts.css.styl:
+   21      background-repeat: no-repeat
+   22      background-position: center 13px
+   23:     background-image: url('/mobile/logo@2x.png')
+   24      background-size: 75px 17px
+   25    }
+
+/Users/osman/work/monocle/app/routes/users.rb:
+   18        end
+   19
+   20:       get '/logout' do
+   21          session.destroy
+   22          redirect '/'
+
+/Users/osman/work/monocle/app/views/mobile_manifest.erb:
+   14  /mobile/rarrow.png
+   15  /mobile/rarrow@2x.png
+   16: /mobile/logo.png
+   17: /mobile/logo@2x.png
+   18
+   19  NETWORK:
+
+10 matches across 7 files

@@ -26,7 +26,7 @@ module Brisk
     configure do
       set :database, lambda {
         ENV['DATABASE_URL'] ||
-          "postgres://localhost:5432/monocle_#{environment}"
+          "postgres://localhost:5432/eevents_#{environment}"
       }
     end
 

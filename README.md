@@ -1,10 +1,10 @@
-## Monocle
+## eevents
 
-Monocle is a link and news aggregation website.
+eevents is a link and news aggregation website.
 
-http://monocle.io
+http://eevents.io
 
-![Screenshot](http://maccman.github.io/monocle/screenshot.png)
+![Screenshot](http://maccman.github.io/eevents/screenshot.png)
 
 ### Prerequisites
 
@@ -17,7 +17,7 @@ http://monocle.io
 ### Setup
 
     bundle install
-    createdb monocle_development
+    createdb eevents_development
     rake db:migrate
 
     export GITHUB_KEY=123

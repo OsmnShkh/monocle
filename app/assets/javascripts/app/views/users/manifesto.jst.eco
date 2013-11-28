@@ -1,5 +1,5 @@
 <header>
-  <h2>monocle manifesto</h2>
+  <h2>eevents manifesto</h2>
 </header>
 
 <article>
@@ -8,12 +8,12 @@
   <% end %>
 
   <p>
-    Monocle is an upbeat and positive community with a focus on technology,
+    eevents is an upbeat and positive community with a focus on technology,
     startups and frankly anything that appeals to the inquisitive mind.
   </p>
 
   <p>
-    If someone has invited you to join Monocle, it means they respect your opinion
+    If someone has invited you to join eevents, it means they respect your opinion
     and want to hear your input. Likewise, if you're issuing an invitation,
     bear in mind that the people you invite, and their contributions, reflect
     on you.
@@ -25,7 +25,7 @@
   </p>
 
   <p>
-    Monocle is a place for like-minded individuals to revel in facts and information,
+    eevents is a place for like-minded individuals to revel in facts and information,
     encourage innovation, and ultimately better each other.
   </p>
 </article>

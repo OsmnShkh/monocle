@@ -4,7 +4,7 @@
 
 <article>
   <p>
-    You've been invited by <strong><%= @invite.get('user_name') %></strong> to join Monocle,
+    You've been invited by <strong><%= @invite.get('user_name') %></strong> to join eevents,
     a link-sharing network for curious people.
     The next step is linking either your GitHub or your Twitter account.
   </p>

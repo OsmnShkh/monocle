@@ -14,7 +14,7 @@ gem 'rack-ssl'
 gem 'omniauth-twitter'
 gem 'omniauth-github'
 gem 'rake'
-gem 'rdiscount'
+gem 'rdiscount'gsub(/pattern/) { matchmatchmatch }
 gem 'mail'
 gem 'twitter'
 gem 'closure-compiler'
