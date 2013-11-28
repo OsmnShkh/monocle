@@ -2,6 +2,12 @@
 
 eevents is a link and news aggregation website for event planners based on monocle.io by Alex MacCaw - http://maccman.github.io/monocle/
 
+### To-do
+
+Remove GitHub authentication
+Create Twitter app
+
+
 
 
 ![Screenshot](http://maccman.github.io/monocle/screenshot.png)
