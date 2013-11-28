@@ -4,7 +4,7 @@ eevents is a link and news aggregation website for event planners based on monoc
 
 
 
-![Screenshot](http://maccman.github.io/eevents/screenshot.png)
+![Screenshot](http://maccman.github.io/monocle/screenshot.png)
 
 ### Prerequisites
 
