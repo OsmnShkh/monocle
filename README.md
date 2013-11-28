@@ -1,8 +1,8 @@
 ## eevents
 
-eevents is a link and news aggregation website.
+eevents is a link and news aggregation website for event planners based on monocle.io by Alex MacCaw
 
-http://eevents.io
+
 
 ![Screenshot](http://maccman.github.io/eevents/screenshot.png)
 
